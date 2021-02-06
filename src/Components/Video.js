@@ -1,8 +1,9 @@
 import React from 'react'
+import "../Styles./Video.css"
 
 function Video() {
   return (
-    <div>
+    <div className="video">
       
     </div>
   )
