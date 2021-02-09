@@ -1,10 +1,13 @@
 import React from 'react'
-import "../Styles./Video.css"
+import "../Styles/Video.css"
 
 function Video() {
   return (
     <div className="video">
-      <video src="https://www.tiktok.com/@thehattiemae/video/6904757382992219398"></video>
+      <video
+        className="video_player"
+        loop
+        src="https://www.tiktok.com/@st3phthemua/video/6924595167420747014"></video>
 
       {/* Video footer */}
       {/* Video Sidebar */}
