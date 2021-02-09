@@ -9,6 +9,12 @@ function App() {
 
       {/* app container */}
         {/* videos */}
+
+      <div className="app_videos">
+        <Video />
+        <Video />
+      </div>
+
         {/* 
         <Video />
         <Video />
